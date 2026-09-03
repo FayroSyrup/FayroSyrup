@@ -2,7 +2,10 @@
 ![Banner](./gitHubbanner.png)
 
 <h1 align="center">Fayroz Tasnim Rowza</h1>
-<h3 align="center">Full-Stack Developer | AI Engineer in Progress | CSE Undergrade Student @ East West University</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress;Full-Stack+Developer;Machine+Learning+%7C+Computer+Vision;Deep+Learning+%7C+Explainable+AI;CSE+Student+%40+East+West+University" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fayrosyrup/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
