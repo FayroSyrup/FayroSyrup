@@ -1,6 +1,5 @@
 <!-- Banner -->
-<!-- Replace the line below with your actual banner image path after uploading to your repo -->
-./gitHubbanner.png
+![Banner](./gitHubbanner.png)
 
 <h1 align="center">Fayroz Tasnim Rowza</h1>
 <h3 align="center">AI Engineer in Progress · CSE @ East West University</h3>
