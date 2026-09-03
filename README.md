@@ -2,7 +2,7 @@
 ![Banner](./gitHubbanner.png)
 
 <h1 align="center">Fayroz Tasnim Rowza</h1>
-<h3 align="center">AI Engineer in Progress · CSE @ East West University</h3>
+<h3 align="center">Full-Stack Developer | AI Engineer in Progress | CSE Undergrade Student @ East West University</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fayrosyrup/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -14,10 +14,9 @@
 ---
 
 ## About Me
+CSE student at East West University, Dhaka, and Full-Stack Developer building toward a career in AI Engineering. I work across machine learning, deep learning, computer vision, and full-stack development, combining software engineering with intelligent systems to solve real-world problems. I believe great technology should be more than technically functional; it should be useful, purposeful, and impactful.
 
-CSE student at East West University (Dhaka) building toward a career in AI Engineering. My work spans machine learning, deep learning, computer vision, and full-stack development. I care about building things that are actually useful — not just technically functional.
-
-- 🎓 B.Sc. in CSE, East West University — CGPA 3.51
+- 🎓 B.Sc. in CSE, East West University
 - 📍 Dhaka, Bangladesh
 - 🧠 Focused on the intersection of AI and real-world software
 
@@ -25,11 +24,12 @@ CSE student at East West University (Dhaka) building toward a career in AI Engin
 
 ## What I'm Working On
 
-- 🔬 Exploring **Explainable AI (XAI)** — understanding model decisions, not just outputs
-- 🖼️ Deepening work in **Computer Vision** and **Digital Image Processing**
-- 🌐 Building full-stack projects combining **PHP/JS backends** with ML pipelines
+- 🤖 Exploring **Agentic AI and AI Engineering** — building intelligent, tool-using systems and understanding how AI models reason and make decisions
+- 🖼️ Deepening expertise in **Computer Vision** and **Digital Image Processing**
+- 🌐 Developing **full-stack applications** and integrating AI/ML pipelines into practical software systems
 - 📱 Expanding into **Android App Development**
-- 📝 Writing up research on nutrition-based ML systems (NutriNexus capstone)
+- 📝 Conducting research on **nutrition-focused machine learning systems** through my capstone project, **NutriNexus**
+
 
 ---
 
