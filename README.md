@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](./gitHubbanner.png)
+![Banner](./refined_banner.png)
 
 <h1 align="center">Fayroz Tasnim Rowza</h1>
 
