@@ -17,7 +17,8 @@
 ---
 
 ## About Me
-CSE student at East West University, Dhaka, and Full-Stack Developer building toward a career in AI Engineering. I work across machine learning, deep learning, computer vision, and full-stack development, combining software engineering with intelligent systems to solve real-world problems. I believe great technology should be more than technically functional; it should be useful, purposeful, and impactful.
+
+CSE student at East West University, Dhaka, and Full-Stack Developer building toward a career in AI Engineering. I work across machine learning, deep learning, computer vision, and full-stack development — combining software engineering with intelligent systems to solve real-world problems.
 
 - 🎓 B.Sc. in CSE, East West University
 - 📍 Dhaka, Bangladesh
@@ -27,12 +28,11 @@ CSE student at East West University, Dhaka, and Full-Stack Developer building to
 
 ## What I'm Working On
 
-- 🤖 Exploring **Agentic AI and AI Engineering** — building intelligent, tool-using systems and understanding how AI models reason and make decisions
+- 🤖 Exploring **Agentic AI and AI Engineering** — building intelligent, tool-using systems
 - 🖼️ Deepening expertise in **Computer Vision** and **Digital Image Processing**
-- 🌐 Developing **full-stack applications** and integrating AI/ML pipelines into practical software systems
+- 🌐 Developing **full-stack applications** with integrated AI/ML pipelines
 - 📱 Expanding into **Android App Development**
-- 📝 Conducting research on **nutrition-focused machine learning systems** through my capstone project, **NutriNexus**
-
+- 📝 Researching **nutrition-focused ML systems** through my capstone project, **NutriNexus**
 
 ---
 
@@ -86,12 +86,24 @@ CSE student at East West University, Dhaka, and Full-Stack Developer building to
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FayroSyrup&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayroSyrup&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=FayroSyrup&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FayroSyrup&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=FayroSyrup&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FayroSyrup/FayroSyrup/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FayroSyrup/FayroSyrup/output/github-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FayroSyrup/FayroSyrup/output/github-snake.svg"/>
+  </picture>
 </p>
 
 ---
