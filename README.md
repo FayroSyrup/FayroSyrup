@@ -31,7 +31,6 @@ CSE student at East West University, Dhaka, and Full-Stack Developer building to
 - 🤖 Exploring **Agentic AI and AI Engineering** — building intelligent, tool-using systems
 - 🖼️ Deepening expertise in **Computer Vision** and **Digital Image Processing**
 - 🌐 Developing **full-stack applications** with integrated AI/ML pipelines
-- 📱 Expanding into **Android App Development**
 - 📝 Researching **nutrition-focused ML systems** through my capstone project, **NutriNexus**
 
 ---
