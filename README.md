@@ -86,7 +86,7 @@ CSE student at East West University, Dhaka, and Full-Stack Developer building to
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=FayroSyrup&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FayroSyrup&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayroSyrup&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
