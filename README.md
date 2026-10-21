@@ -2,11 +2,12 @@
 
 <div align="center">
   <img
-    src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"
-    width="800"
-    alt="Animated coding banner"
+    src="./g-b.png"
+    width="100%"
+    alt="Pixel-art banner of a hijabi girl coding"
   />
 </div>
+
 
 
 <h1 align="center">Fayroz Tasnim Rowza</h1>
