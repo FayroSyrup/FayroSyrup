@@ -2,7 +2,7 @@
 
 <div align="center">
   <img
-    src="./g-b.png"
+    src="./g-b4.png"
     width="100%"
     alt="Pixel-art banner of a hijabi girl coding"
   />
